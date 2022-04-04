@@ -5,7 +5,7 @@ Hi My name is Sebastuan and I am a student at Lehigh University.
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="https://github.com/donbowen/donbowen.github.io/raw/master/images/logo.png" width="50%">
+  <img class="img-circle" src="/images/face.jpeg" width="50%">
 </p>
 
 ---
