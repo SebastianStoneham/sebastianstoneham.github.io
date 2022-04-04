@@ -1,6 +1,6 @@
 ## About Me
 
-Hi My name is Sebastuan and I am a student at Lehigh University. 
+Hello, my name is Sebastian Stoneham and I am a student at Lehigh University. I am in my third year and am majoriing in Finance with a concentration in Real Estate and minoring in Financial Technology. I am originally from Houston, Texas but want to relocate to New York City post graduation. In my website you will find a few of the projects I have worked on and some more information about me. Thank you for taking the time to review this. 
 
 <!-- Upload your own photo and change the path -->
 
