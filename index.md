@@ -1,6 +1,6 @@
 ## About Me
 
-I am an awesome student at Lehigh, you should hire me!
+Hi My name is Sebastuan and I am a student at Lehigh University. 
 
 <!-- Upload your own photo and change the path -->
 
