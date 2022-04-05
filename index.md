@@ -44,7 +44,7 @@ _**[Some personal project](/pdf/sample_presentation.pdf)**_
 
 ## Career Objectives
 
-I would like to do well in my internship this coming summer. If I impress my supervisors, then I hope it will allow me to move from commercail banking to investment banking and also move from Houston to New York for the following summer, after I graduate. My goal is to be a relaible employee and coworker, who others can come to for help. Another goal of mine is to support and raise a family and move back to Houston when that time comes. 
+I would like to do well in my internship this coming summer. If I impress my supervisors, then I hope it will allow me to move from commercial banking to investment banking and also move from Houston to New York for the following summer, after I graduate. My goal is to be a reliable employee and co-worker, who others can come to for help. Another goal of mine is to support and raise a family and move back to Houston when that time comes. 
 
 I continously prove dependability and value to those who count on me through my hard work. I beleive I am a good person to have around. 
 
