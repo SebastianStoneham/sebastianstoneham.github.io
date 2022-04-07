@@ -32,7 +32,7 @@ Or: The process that created this page can be used to show off your whole midter
 
 _**[Eventual team project](https://sebastianstoneham.github.io/sebfitzromano/)**_
 
-<img src="images/creditrisk.jpeg?raw=true"/>
+<img src="images/creditriskpic.jpeg?raw=true"/>
 
 ---
 
