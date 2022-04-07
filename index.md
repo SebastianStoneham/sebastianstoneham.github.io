@@ -18,7 +18,7 @@ _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
 You can show off your midterm analysis by moving the report components and output into this file. Or...
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/riskpic.jpeg?raw=true"/>
 
 ---
 
@@ -26,21 +26,16 @@ _**[Regression Practice](regression)**_
 
 Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/regressionpic.png?raw=true"/>
 
 ---
 
 _**[Eventual team project](https://sebastianstoneham.github.io/sebfitzromano/)**_
 
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/creditrisk.jpeg?raw=true"/>
 
 ---
 
-_**[Some personal project](/pdf/sample_presentation.pdf)**_
-
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
 
 ## Career Objectives
 
