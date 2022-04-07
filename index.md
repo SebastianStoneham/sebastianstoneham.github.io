@@ -5,7 +5,7 @@ Hello, my name is Sebastian Stoneham and I am a student at Lehigh University. I 
 <!-- Upload your own photo and change the path -->
 
 <p style="text-align:center;">
-  <img class="img-circle" src="/images/face.jpeg" width="50%">
+  <img class="img-circle" src="/images/personal.jpg" width="50%">
 </p>
 
 ---
