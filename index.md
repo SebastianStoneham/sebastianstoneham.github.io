@@ -16,15 +16,12 @@ Hello, my name is Sebastian Stoneham and I am a student at Lehigh University. I 
 
 _**[Natural language processing 10-Ks to identify risks](analysis_report)**_
 
-You can show off your midterm analysis by moving the report components and output into this file. Or...
 
 <img src="images/10kriskpic.jpeg?raw=true"/>
 
 ---
 
 _**[Regression Practice](regression)**_
-
-Or: The process that created this page can be used to show off your whole midterm analysis file, as is.
 
 <img src="images/regex.png?raw=true"/>
 
